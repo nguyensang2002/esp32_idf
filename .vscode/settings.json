@@ -1,0 +1,22 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "task.h": "c",
+        "esp_log.h": "c",
+        "stdio.h": "c",
+        "gpio.h": "c",
+        "*.inc": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "string": "c",
+        "optional": "c",
+        "limits": "c",
+        "memory": "c",
+        "new": "c",
+        "functional": "c",
+        "led_strip.h": "c",
+        "led_strip_rmt.h": "c"
+    }
+}
